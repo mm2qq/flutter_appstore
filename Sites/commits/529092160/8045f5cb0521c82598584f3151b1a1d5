@@ -1,0 +1,20 @@
+{
+    "appId": "529092160",
+    "appName": "今日头条",
+    "icon": "http://127.0.0.1/~maochaolong041/toutiao.jpg",
+    "version": "7.0.5",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "8045f5cb0521c82598584f3151b1a1d5",
+    "changeLog": "- 品牌全新升级，更简约、更清晰、更年轻\n- 原创观察答题秀《考不好 没关系？》重磅上线\n- 新增扫一扫功能",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "305.9 MB",
+    "branch": "master",
+    "bundleId": "com.bytedance.toutiao",
+    "pubDate": "2019/1/8",
+    "downloadLink": "https://itunes.apple.com/cn/app/今日头条/id529092160",
+    "shareLink": "https://www.toutiao.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": false
+}

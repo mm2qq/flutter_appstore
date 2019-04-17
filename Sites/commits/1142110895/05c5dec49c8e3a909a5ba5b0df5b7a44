@@ -1,0 +1,20 @@
+{
+    "appId": "1142110895",
+    "appName": "抖音",
+    "icon": "http://127.0.0.1/~maochaolong041/douyin.jpg",
+    "version": "5.6.0",
+    "environment": "release",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "05c5dec49c8e3a909a5ba5b0df5b7a44",
+    "changeLog": "1.新增了位置贴纸，快来秀出你的定位吧\n2.支持第三方内容分享进抖音，优质内容让更多人看见",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "266.1 MB",
+    "branch": "master",
+    "bundleId": "com.microlive.douyin",
+    "pubDate": "2019/3/26",
+    "downloadLink": "https://itunes.apple.com/cn/app/id1142110895",
+    "shareLink": "https://www.douyin.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": false
+}

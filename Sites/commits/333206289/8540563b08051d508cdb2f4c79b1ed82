@@ -1,0 +1,20 @@
+{
+    "appId": "333206289",
+    "appName": "支付宝",
+    "icon": "http://127.0.0.1/~maochaolong041/zhifubao.jpg",
+    "version": "10.1.38",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "8540563b08051d508cdb2f4c79b1ed82",
+    "environment": "develop",
+    "changeLog": "支付宝双11特别版来啦！更新APP赢红包：\n1. 码上双11，快来支付宝！11月1日-11月10日来支付宝，赢双11购物红包！\n2. 电子发票能在【卡包】里查看啦！管理发票更方便。\n3. 【搜索】功能改版优化，快来首页搜【花呗】，有惊喜哦。\n\n同时，【邀请有礼】活动火热持续中：老用户邀请1位新用户，就得赏金，多邀多得！新用户还享受新人权益！马上邀请朋友，一起享受支付宝的便利生活吧。\n\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「 iTunes Store 与 App Store 」-「自动下载的项目」，确保第一时间体验更好的支付宝。",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "274.5 MB",
+    "branch": "master",
+    "bundleId": "com.alibaba.alipay",
+    "pubDate": "2018/10/23",
+    "downloadLink": "https://itunes.apple.com/cn/app/id333206289",
+    "shareLink": "https://www.alipay.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

@@ -1,0 +1,20 @@
+{
+    "appId": "414478124",
+    "appName": "微信",
+    "icon": "http://127.0.0.1/~maochaolong041/wechat.jpg",
+    "version": "6.7.4",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "fec5c18fd069ad1116ca6a0d8f049351",
+    "changeLog": "本次更新：\n- 修复了在 iPhone XS, iPhone XS Max 上遇到的问题\n- 在表情面板，可以拍自己的表情\n- 在聊天输入框，长按可以换行\n\n最近更新：\n- 可以使用英语和粤语进行语音输入了\n- 可以直接浏览订阅号的消息\n- 可以把浏览的文章缩小为浮窗",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "245.4 MB",
+    "branch": "master",
+    "bundleId": "com.tencent.wechat",
+    "pubDate": "2018/11/19",
+    "downloadLink": "https://itunes.apple.com/cn/app/wei/id414478124",
+    "shareLink": "https://weixin.qq.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

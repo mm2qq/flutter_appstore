@@ -1,0 +1,20 @@
+{
+    "appId": "590338362",
+    "appName": "网易云音乐",
+    "icon": "http://127.0.0.1/~maochaolong041/yunyinyue.jpg",
+    "version": "6.0.1",
+    "environment": "release",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "b5a39f396f2d232e3b6bb4a55dc4478b",
+    "changeLog": "修复已知问题，优化体验。\n\n--- 近期更新 ---\n【全新视觉】\n新风格，新美感，轻盈灵动，新颖沉浸。\n【我的音乐】\n灵活收纳音乐通道，一触即达各种音乐可能。\n【歌单广场】\n打破常规，封面一键播放歌单，滑动之间探索新鲜。\n\n\n使用中遇到任何问题，请通过\"帐号\"-\"关于\"-\"帮助与反馈\"告诉我们，我们会尽快与你联系！",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "211.8 MB",
+    "branch": "master",
+    "bundleId": "com.netease.music",
+    "pubDate": "2019/3/27",
+    "downloadLink": "https://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id590338362",
+    "shareLink": "https://music.163.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

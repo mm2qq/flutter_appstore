@@ -1,0 +1,20 @@
+{
+    "appId": "414478124",
+    "appName": "微信",
+    "icon": "http://127.0.0.1/~maochaolong041/wechat.jpg",
+    "version": "6.7.1",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "9d03375f1262de7af775397754e7c593",
+    "changeLog": "最新更新：\n- 可以把常用的小程序添加到“我的小程序”\n\n 最近更新：\n- 可以直接浏览订阅号的消息\n- 可以把浏览的文章缩小为浮窗",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "245.4 MB",
+    "branch": "master",
+    "bundleId": "com.tencent.wechat",
+    "pubDate": "2018/7/13",
+    "downloadLink": "https://itunes.apple.com/cn/app/wei/id414478124",
+    "shareLink": "https://weixin.qq.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

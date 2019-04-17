@@ -1,0 +1,20 @@
+{
+    "appId": "414478124",
+    "appName": "微信",
+    "icon": "http://127.0.0.1/~maochaolong041/wechat.jpg",
+    "version": "6.6.7",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "44b009108d9ea5689441534b3a04f09f",
+    "changeLog": "最新更新：\n- 可以把浏览的文章缩小为浮窗\n\n 最近更新：\n- 可保留未编辑完的朋友圈\n- 可在“设置”-“通用”-“发现页管理”控制功能是否在“发现”显示\n - 在本地添加两个常登录账号后，可一键切换登录",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "245.4 MB",
+    "branch": "master",
+    "bundleId": "com.tencent.wechat",
+    "pubDate": "2018/5/23",
+    "downloadLink": "https://itunes.apple.com/cn/app/wei/id414478124",
+    "shareLink": "https://weixin.qq.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

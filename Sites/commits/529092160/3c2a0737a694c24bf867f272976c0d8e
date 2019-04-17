@@ -1,0 +1,20 @@
+{
+    "appId": "529092160",
+    "appName": "今日头条",
+    "icon": "http://127.0.0.1/~maochaolong041/toutiao.jpg",
+    "version": "7.0.6",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "3c2a0737a694c24bf867f272976c0d8e",
+    "changeLog": "- 头条“圈子”上线，与大V畅快交流\n- 支持匿名提问，问你所想，答你所问\n- 优化了专栏的加载速度",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "305.9 MB",
+    "branch": "master",
+    "bundleId": "com.bytedance.toutiao",
+    "pubDate": "2019/1/14",
+    "downloadLink": "https://itunes.apple.com/cn/app/今日头条/id529092160",
+    "shareLink": "https://www.toutiao.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": false
+}

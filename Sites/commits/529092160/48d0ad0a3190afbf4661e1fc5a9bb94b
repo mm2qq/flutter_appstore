@@ -1,0 +1,20 @@
+{
+    "appId": "529092160",
+    "appName": "今日头条",
+    "icon": "http://127.0.0.1/~maochaolong041/toutiao.jpg",
+    "version": "7.0.9",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "48d0ad0a3190afbf4661e1fc5a9bb94b",
+    "changeLog": "发财中国年,春节活动分10亿!\n- 集卡分5亿！\n- 红包雨分5亿！",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "305.9 MB",
+    "branch": "master",
+    "bundleId": "com.bytedance.toutiao",
+    "pubDate": "2019/1/27",
+    "downloadLink": "https://itunes.apple.com/cn/app/今日头条/id529092160",
+    "shareLink": "https://www.toutiao.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": false
+}

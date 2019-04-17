@@ -1,0 +1,20 @@
+{
+    "appId": "529092160",
+    "appName": "今日头条",
+    "icon": "http://127.0.0.1/~maochaolong041/toutiao.jpg",
+    "version": "6.9.8",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "2e4277d05272b6ed882842db414cae95",
+    "changeLog": "- 优化了网络加载速度",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "305.9 MB",
+    "branch": "master",
+    "bundleId": "com.bytedance.toutiao",
+    "pubDate": "2018/11/29",
+    "downloadLink": "https://itunes.apple.com/cn/app/今日头条/id529092160",
+    "shareLink": "https://www.toutiao.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": false
+}

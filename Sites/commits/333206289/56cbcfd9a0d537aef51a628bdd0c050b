@@ -1,0 +1,20 @@
+{
+    "appId": "333206289",
+    "appName": "支付宝",
+    "icon": "http://127.0.0.1/~maochaolong041/zhifubao.jpg",
+    "version": "10.1.28",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "56cbcfd9a0d537aef51a628bdd0c050b",
+    "environment": "develop",
+    "changeLog": "新人有好礼，邀新赚赏金！老用户邀请1位新用户，就得赏金，多邀多得！新用户还能享受新人权益！马上邀请朋友，一起享受支付宝带来的便利生活吧。\n\n为了获得更好的用户体验，支付宝会在 App Store 中定期更新，建议打开 iPhone 手机「设置」-「 iTunes Store 与 App Store 」-「自动下载的项目」，确保第一时间体验更好的支付宝。",
+    "systemVersion": "需要 iOS 8.0 或更高版本。",
+    "packageSize": "274.5 MB",
+    "branch": "master",
+    "bundleId": "com.alibaba.alipay",
+    "pubDate": "2018/7/7",
+    "downloadLink": "https://itunes.apple.com/cn/app/id333206289",
+    "shareLink": "https://www.alipay.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

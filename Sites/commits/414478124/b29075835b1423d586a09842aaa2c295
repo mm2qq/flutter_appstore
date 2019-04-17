@@ -1,0 +1,20 @@
+{
+    "appId": "414478124",
+    "appName": "微信",
+    "icon": "http://127.0.0.1/~maochaolong041/wechat.jpg",
+    "version": "7.0.0",
+    "environment": "test",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "b29075835b1423d586a09842aaa2c295",
+    "changeLog": "本次更新:\n- 用「时刻视频」，记录眼前的世界。也可以给朋友的视频「冒个泡」，告诉他你来过。\n- 界面全新改版，更清晰直观的视觉与操作体验。\n- 可以在看一看里浏览朋友认为好看的文章。\n- 在聊天详情页中，可以给单聊设置强提醒。\n\n最近更新:\n- 在表情面板，可以拍自己的表情。\n- 在聊天输入框，长按可以换行。",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "245.4 MB",
+    "branch": "master",
+    "bundleId": "com.tencent.wechat",
+    "pubDate": "2018/12/21",
+    "downloadLink": "https://itunes.apple.com/cn/app/wei/id414478124",
+    "shareLink": "https://weixin.qq.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}

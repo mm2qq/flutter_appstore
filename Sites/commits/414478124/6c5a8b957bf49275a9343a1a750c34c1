@@ -1,0 +1,20 @@
+{
+    "appId": "414478124",
+    "appName": "微信",
+    "icon": "http://127.0.0.1/~maochaolong041/wechat.jpg",
+    "version": "6.7.2",
+    "environment": "develop",
+    "build": "23",
+    "committer": "毛司机",
+    "commitId": "6c5a8b957bf49275a9343a1a750c34c1",
+    "changeLog": "最新更新：\n- 可以使用英语和粤语进行语音输入了\n\n最近更新：\n- 可以把常用的小程序添加到“我的小程序”\n- 可以直接浏览订阅号的消息\n- 可以把浏览的文章缩小为浮窗",
+    "systemVersion": "需要 iOS 9.0 或更高版本。",
+    "packageSize": "245.4 MB",
+    "branch": "master",
+    "bundleId": "com.tencent.wechat",
+    "pubDate": "2018/8/16",
+    "downloadLink": "https://itunes.apple.com/cn/app/wei/id414478124",
+    "shareLink": "https://weixin.qq.com",
+    "qrCode": "http://127.0.0.1/~maochaolong041/qrcode.png",
+    "isFavorite": true
+}
